@@ -1,0 +1,26 @@
+.blog-header {
+  background-color: #008000; 
+  color: #fff;
+  border-radius: 25px;
+}
+.blog-title {
+  font-size: 3rem;
+  font-weight: bold;
+}
+.search-box input {
+  max-width: 500px;
+  margin: 0 auto;
+  border-radius: 20px;
+}
+.post-tags .nav-link {
+  color: #fff;
+  font-weight: bold;
+  padding: 10px 20px;
+  border-radius: 20px;
+}
+.post-tags .nav-link.active {
+  background-color: #006400; 
+}
+.post-tags .nav-link:hover {
+  background-color: #004d00;
+}
